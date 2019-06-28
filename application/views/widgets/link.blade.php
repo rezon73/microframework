@@ -1,0 +1,1 @@
+<a href="{{{ $link }}}" target="_blank" class="btn btn-success btn-lg">Link</a>

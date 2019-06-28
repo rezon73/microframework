@@ -1,0 +1,27 @@
+{
+    "name": "rezon73/microframework",
+    "authors": [
+        {
+            "name": "rezon73",
+            "email": "rezon73@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "philo/laravel-blade": "3.*",
+        "twbs/bootstrap": "4.*",
+        "components/jquery": "^3.2",
+        "curl/curl": "^1.8",
+        "telegram-bot/api": "^2.3",
+        "php": ">=7.2.0",
+        "ext-json": "*",
+        "rezon73/slim-pdo": "^1.10"
+    },
+    "autoload": {
+        "classmap": [
+            "application/",
+            "lib/",
+            "packages/"
+        ]
+    }
+}

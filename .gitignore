@@ -1,0 +1,9 @@
+vendor
+application/cache
+composer.lock
+composer.phar
+composer
+config/local*
+.idea
+data
+lockFiles
